@@ -81,7 +81,7 @@ Accept: application/json
 in the Body "jason format": 
 {
    "first_Name":"John",
-   "last_Name_name":"doe"
+   "last_Name":"doe"
    "age":"23",
    "city": "NewYork"
    
