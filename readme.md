@@ -89,7 +89,7 @@ in the Body "jason format":
 ```
 
 
-Delete trip (DELETE request):
+Delete customer (DELETE request):
 
 ```
 Url:
