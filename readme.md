@@ -103,9 +103,27 @@ Content-Type: application/json
 Accept: application/json 
  
 ```
+Update customer (PUT request):
+```
+Url:
+http://localhost:8000/api/customer/1
 
 
- 
+The header:
+
+Host: localhost:8000
+Content-Type: application/json
+Accept: application/json
+in the Body "jason format": 
+{
+   "first_Name":"Jin",
+   "last_Name":"doe"
+   "age":"23",
+   "city": "NewYork"
+   
+}
+
+ ```
  
 
 ### And coding style tests
